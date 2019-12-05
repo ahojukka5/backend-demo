@@ -1,9 +1,9 @@
-# backend-demo.js
+# backend-demo
 
 [![][travis-img]][travis-url]
 [![][coveralls-img]][coveralls-url]
 
-This is a short demo experimenting what is a best way to setup CI/CD/docs for
+This is a short demo experimenting what is a best way to setup CI/CD/APIDoc for
 Node/Express backend. Backend is continuously deployed to Heroku, and can
 accessed from address
 
